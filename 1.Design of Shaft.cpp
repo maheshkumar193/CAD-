@@ -1,5 +1,4 @@
 // Designing a shaft
-// it gives one of the best performances when compared with others algorithms 
 // GROUP 3 
 // BT18MEC089(MAHESH KUMAR)
 // BT18MEC095(SRINIVAS)
@@ -46,7 +45,7 @@ int main()
 	
 	// p = 2*PI*N*T/60 
 	
-	double T = P*60.0/(2*M_PI*N*1.0);
+	double T = P*60.0/(2*M_PI*N*1.0); 
 	
 	double Rleft , Rright ; //reactions at left and right respectively 
 	
